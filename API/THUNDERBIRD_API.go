@@ -1,9 +1,9 @@
-package main
+package API
 
 import (
 	"fmt"
 )
 
-func main() {
+func ThunderbirdAPI() {
 
 }
